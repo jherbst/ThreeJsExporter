@@ -1,0 +1,1 @@
+ThreeJsExporter is a plugin for AutoDesk Maya to export to three.js JSON file.
